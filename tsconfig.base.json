@@ -14,7 +14,10 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@modules/tv-web/schedule": ["modules/src/index.ts"],
+      "@modules/tv-web/ui": ["modules/shared/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }

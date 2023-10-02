@@ -3,7 +3,7 @@
   "$schema": "../../node_modules/nx/schemas/project-schema.json",
   "projectType": "application",
   "prefix": "tv-web",
-  "sourceRoot": "apps/tv-web/src",
+  "sourceRoot": "",
   "tags": [],
   "targets": {
     "build": {
